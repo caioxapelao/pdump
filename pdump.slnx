@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pdump/pdump.vcxproj" Id="d2625e22-b219-44cc-928f-f9a94753e725" />
+</Solution>
